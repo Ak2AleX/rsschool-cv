@@ -8,6 +8,13 @@
 
 ## About Me
 
+Hello. I'm Alexey from Russia Moscow. Sometimes I do video montage, but now I've stopped. And now I want to write a joke.
+
+```
+- Stirlitz, what is your favorite movie?
+"Volga, Volga," Stirlitz wanted to answer Muller, but realized that this was a test.
+"Volkswagen, Volkswagen," the scout said.
+```
 
 ## Skills
 
