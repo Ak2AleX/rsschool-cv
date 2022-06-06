@@ -43,7 +43,7 @@ print(F(9))
 ## Education
 
 * **School:** №1883
-* **Course:** [Yandex Praktikum](https://practicum.yandex.ru/profile/web/ "Yandex Praktikum")
+* **Course:** [Yandex Practicum](https://practicum.yandex.ru/profile/web/ "Yandex Practicum")
 
 ## English
 
