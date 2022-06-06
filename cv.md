@@ -6,12 +6,8 @@
 2. **Email:** ak2movlex@gmail.com
 3. **GitHub:** [Ak2AleX](https://github.com/Ak2AleX "Ak2AleX")
 
-***
-
 ## About Me
 
-
-***
 
 ## Skills
 
@@ -19,8 +15,6 @@
 2. **HTML**
 3. **CSS**
 4. **Python**
-
-***
 
 ## Code Example
 
@@ -37,18 +31,13 @@ def F(n):
 print(F(9))
 ```
 
-***
-
 ## Work Experience
-
-***
 
 ## Education
 
 * **School:** №1883
 * **Course:** [Yandex Praktikum](https://practicum.yandex.ru/profile/web/ "Yandex Praktikum")
 
-***
 ## English
 
 A2 (I spoke in English not with native speakers in Discord)
