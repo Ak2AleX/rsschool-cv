@@ -25,3 +25,26 @@ Hello. I'm Alexey from Russia Moscow. Sometimes I do video montage, but now I've
 
 ## Code Example
 
+```
+def F(n):
+    if n == 1:
+        return 0 
+    elif n == 2:
+        return 1
+    elif n == 3:
+        return 1
+    elif n > 3:
+        return F(n-3) + F(n-2) + F(n-1)
+print(F(9))
+```
+
+## Work Experience
+
+## Education
+
+* **School:** №1883
+* **Course:** [Yandex Practicum](https://practicum.yandex.ru/profile/web/ "Yandex Practicum")
+
+## English
+
+B1 (I spoke in English not with native speakers in Discord)
