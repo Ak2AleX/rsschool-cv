@@ -1,0 +1,172 @@
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Mono', monospace;
+  }
+@font-face {
+    font-family: NotoSansMono-Regular;
+     src: url("assets/fonts/NotoSansMono-REgular.ttf");
+   }
+body {
+    font-family: 'NotoSansMono-Regular';
+    background-color: rgb(19, 18, 18);
+}
+.All {
+    margin: auto;
+    max-width: 1024px;
+}
+.header {
+    display: flex;
+    background: #222;
+}
+.photo-and-name {
+    display: flex;
+    background: #222;
+    flex-direction: column;
+    justify-content: center;
+}
+.h1 {
+    display: flex;
+}
+.photo {
+    display: flex;
+    width: 278px;
+    justify-content: center;
+    margin: 5px;
+}
+.Name {
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+}
+.nav-and-aboutme {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu-list-div {
+    display: flex;
+}
+.menu-nav {
+    display: flex;
+}
+.menu-list {
+    display: flex;
+    list-style-type: none;
+}
+.link {
+    display: flex;
+    margin: 5px;
+    padding: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(165, 165, 165);
+}
+.link:hover {
+    text-decoration: underline;
+}
+.text-link {
+    text-decoration: none;
+    color: rgb(165, 165, 165);
+}
+.text-link:hover {
+    text-decoration: underline;
+}
+.main {
+    display: flex;
+    width: 1024px;
+}
+.About-Me {
+    display: flex;
+    background: rgb(65, 65, 65);
+    color: aliceblue;
+    flex-direction: column;
+    padding: 10px;
+}
+.par1 {
+    padding: 20px 10px 10px 10px;
+}
+.par2 {
+    padding: 10px;
+}
+.h2 {
+    display: flex;
+    padding: 5px;
+}
+.Contacts {
+    display: flex;
+    width: 288px;
+    flex-direction: column;
+    padding: 20px;
+    background-color: #222;
+    color: aliceblue;
+}
+.contacts-h2 {
+    display: flex;
+    width: 288px;
+}
+.contacts-ul {
+    display: flex;
+    width: 288px;
+    padding: 10px 0 0 10px;
+}
+.main-content {
+    display: flex;
+    background: rgb(65, 65, 65);
+    color: aliceblue;
+    flex-direction: column;
+    width: 760px;
+}
+.Skills {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.skills-ul {
+    padding: 10px 0 0 10px;
+}
+.Code-Example {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.pre-code {
+    font-weight: bold;
+    background: #222;
+    padding: 10px;
+}
+.Education {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.education-ul {
+    padding: 10px 0 0 10px;
+}
+.English {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.Projects {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+.projects-ul {
+    padding: 10px 0 0 10px;
+}
+.footer {
+    display: flex;
+    background: rgb(94, 94, 94);
+    justify-content: space-between;
+    align-items: center;
+}
+.Rs-School-Icon {
+    padding: 0 5px 0 0;
+}
+.li-padding {
+    padding: 2px 0 2px 0;
+}
